@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @anshumali19
 - 👀 I’m interested in Higher Level Programming
-- 🌱 I’m currently learning C 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C, Python, JAVA, ML
 - 📫 How to reach me @_anshumali.19 On Instagram.
 
 <!---
